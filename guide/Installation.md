@@ -24,7 +24,7 @@
 #
 
 ### 1st Step - Partitioning
-- Flash [Moded Ofox Recovery](https://github.com/Kumar-Jy/Windows-in-PocoF1-Without-PC/releases/tag/Moded-Ofox-Recovery) either through your existing recovery or extract recovery.img from zip and flash through fastboot.
+- Flash [Modded Ofox Recovery](https://github.com/Kumar-Jy/Windows-in-PocoF1-Without-PC/releases/tag/Modded-Ofox-Recovery) either through your existing recovery or extract recovery.img from zip and flash through fastboot.
 - Type ` partition $ ` on recovery terminal [Replace $ with the size of storage in GB you want for Windows, Ex. - for 40GB type `partition 40`] (do not add GB at the end.)
 - If it asks you to run it once again, do so
 - Reboot to check if Android still works. If it doesn't boot, format userdata and Reboot.
