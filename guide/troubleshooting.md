@@ -3,7 +3,7 @@
 
 # Running Windows on the Xiaomi Pocophone F1
 
-## Troubleshooting Issues
+## Troubleshooting Issues kanged from woa-raphael
 > Below you will find a list of common problems and their solutions
 #
 ### Sound and Rotation not Working
